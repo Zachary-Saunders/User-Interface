@@ -64,3 +64,94 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+h1 {
+	font-size: 50px;
+}
+
+nav {
+	margin-left: 200px;
+}
+
+nav a {
+	display: inline-block;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none;
+	color: gray;
+}
+
+footer {
+	text-align: center;
+}
+
+button {
+	background: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.logo {
+	padding-left: 50px;
+}
+
+.middle-img {
+	padding-left: 50px;
+}
+
+#container {
+	width: 880px;
+	margin: 0 auto;
+	/* position: relative; */
+	/* max-width: 800px; */
+}
+
+#top-section {
+	display: inline-block;
+	width: 880px;
+	border: 1px solid red;
+	vertical-align: middle;
+	/* position: relative; */
+}
+
+#top-section div {
+	display: inline-block;
+	margin: 100px 200px;
+	max-width: 880px;
+}
+
+#top-section img {
+	display: inline-block;
+	float: right;
+	max-width: 880px;
+}
+
+#middle-section {
+	display: inline-block;
+	border: 1px solid red;
+	/* max-width: 800px; */
+}
+
+#bottom-section {
+	display: inline-block;
+	border: 1px solid red;
+}
+
+#bottom-section1 {
+	display: inline-block;
+	/* display: inline; */
+	width: 200px;
+}
+
+#bottom-section2 {
+	display: inline-block;
+	/* display: inline; */
+}
+
+#bottom-section3 {
+	display: inline-block;
+	/* display: inline; */
+}
+
